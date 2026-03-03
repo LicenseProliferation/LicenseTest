@@ -54,17 +54,4 @@ The Free Software Foundation may publish revised and/or new versions of the GNU 
 Each version is given a distinguishing version number. If the Library as you received it specifies that a certain numbered version of the GNU Lesser General Public License “or any later version” applies to it, you have the option of following the terms and conditions either of that published version or of any later version published by the Free Software Foundation. If the Library as you received it does not specify a version number of the GNU Lesser General Public License, you may choose any version of the GNU Lesser General Public License ever published by the Free Software Foundation.
 
 If the Library as you received it specifies that a proxy can decide whether future versions of the GNU Lesser General Public License shall apply, that proxy's public statement of acceptance of any version is permanent authorization for you to choose that version for the Library.
-
-exception:
-Can I use LAME in my commercial program?  
-
-Yes, you can, under the restrictions of the LGPL.  The easiest
-way to do this is to:
-
-1. Link to LAME as separate jar (lame.min.js or lame.all.js)
-
-2. Fully acknowledge that you are using LAME, and give a link
-   to our web site, lame.sourceforge.net
-
-3. If you make modifications to LAME, you *must* release these
    these modifications back to the LAME project, under the LGPL.
