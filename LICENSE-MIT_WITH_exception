@@ -7,12 +7,3 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
---- LLVM Exceptions to the Apache 2.0 License ----
-- Apply use grant exception
-- Designate the work as multiple-licensed
-- Grant(Obtain/Use) patent licenses(claims/rights)
-- License validity period
-- can Act on own behalf and be liable for offering support(warranty/indemnity)
-- can Add license exceptions(options) by appending references
-- can Assume additional contractual commitments for commercial use
-- can Charge a fee for offering support/warranty/indemnity
