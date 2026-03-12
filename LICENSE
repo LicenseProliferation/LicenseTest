@@ -1,3 +1,13 @@
-As a special exception, if other files instantiate templates or use macros or inline functions from this file, or you compile this file and link it with other works to produce a work based on this file, this file does not by itself cause the resulting work to be covered by the GNU General Public License. However the source code for this file must still be made available in accordance with section (3) of the GNU General Public License.
+Eiffel Forum License, version 1
 
-This exception does not invalidate any other reasons why a work based on this file might be covered by the GNU General Public License.
+Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:
+
+     - copyright notices are retained unchanged
+
+     - any distribution of this package, whether modified or not, includes this file
+
+Permission is hereby also granted to distribute binary programs which depend on this package, provided that:
+
+     - if the binary program depends on a modified version of this package, you must publicly release the modified version of this package
+
+THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT WARRANTY. ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS PACKAGE.
