@@ -1,12 +1,10 @@
-Copyright (c) ...
+Bootloader Exception
+--------------------
 
-THIS MATERIAL IS PROVIDED AS IS, WITH ABSOLUTELY NO WARRANTY EXPRESSED
-OR IMPLIED.  ANY USE IS AT YOUR OWN RISK.
-
-Permission is hereby granted to use or copy this program
-for any purpose,  provided the above notices are retained on all copies.
-Permission to modify the code and to distribute modified code is granted,
-provided the above notices are retained, and a notice that the code was
-modified is included with the above copyright notice.
-
-A few files have other copyright holders.
+In addition to the permissions in the GNU General Public License, the
+authors give you unlimited permission to link or embed compiled bootloader
+and related files into combinations with other programs, and to distribute
+those combinations without any restriction coming from the use of those
+files. (The General Public License restrictions do apply in other respects;
+for example, they cover modification of the files, and distribution when
+not linked into a combine executable.)
