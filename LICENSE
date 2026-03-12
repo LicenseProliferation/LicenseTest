@@ -1,112 +1,76 @@
-Open CASCADE Technology Public License
-Version 6.6, April 2013
+OCLC Research Public License 2.0
+Terms & Conditions Of Use
+May, 2002
+Copyright © 2002. OCLC Online Computer Library Center, Inc. All Rights Reserved
 
-OPEN CASCADE releases and makes publicly available the source code of the software Open CASCADE Technology to the free software development community under the terms and conditions of this license.
+PLEASE READ THIS DOCUMENT CAREFULLY. BY DOWNLOADING OR USING THE CODE BASE AND/OR DOCUMENTATION ACCOMPANYING THIS LICENSE (THE "License"), YOU AGREE TO THE FOLLOWING TERMS AND CONDITIONS OF THIS LICENSE.
 
-It is not the purpose of this license to induce you to infringe any patents or other property right claims or to contest validity of any such claims; this license has the sole purpose of protecting the integrity of the free software distribution system, which is implemented by public license practices. Many people have made generous contributions to the wide range of software distributed through that system in reliance on consistent application of that system; it is up to the author/donor to decide if he or she is willing to distribute software through any other system and a licensee cannot impose that choice.
+Section 1. Your Rights
 
-Please read this license carefully and completely before downloading this software. By downloading, using, modifying, distributing and sublicensing this software, you indicate your acceptance to be bound by the terms and conditions of this license. If you do not want to accept or cannot accept for any reasons the terms and conditions of this license, please do not download or use in any manner this software.
- 
-1. Definitions
+Subject to these terms and conditions of this License, the OCLC Office of Research (the "Original Contributor") and each subsequent contributor (collectively with the Original Contributor, the "Contributors") hereby grant you a non-exclusive, worldwide, no-charge, transferable license to execute, prepare derivative works of, and distribute (internally and externally), for commercial and noncommercial purposes, the original code contributed by Original Contributor and all Modifications (collectively called the "Program").
 
-Unless there is something in the subject matter or in the context inconsistent therewith, the capitalized terms used in this License shall have the following meaning.
+Section 2. Definitions
 
-"Applicable Intellectual Property Rights" means (a) with respect to the Initial Developer, any rights under patents or patents applications or other intellectual property rights that are now or hereafter acquired, owned by or assigned to the Initial Developer and that cover subject matter contained in the Original Code, but only to the extent necessary to use, reproduce, modify, distribute or sublicense the Original Code without infringement; and (b) with respect to You or any Contributor, any rights under patents or patents applications or other intellectual property rights that are now or hereafter acquired, owned by or assigned to You or to such Contributor and that cover subject matter contained in Your Modifications or in such Contributor's Modifications, taken alone or in combination with Original Code.
+A "Modification" to the Program is any addition to or deletion from the contents of any file of the Program and any new file that contains any part of the Program. If you make a Modification and distribute the Program externally you are a "Contributor." The distribution of the Program must be under the terms of this license including those in Section 3 below.
 
-"Contributor" means each individual or legal entity that creates or contributes to the creation of any Modification, including the Initial Developer.
+A "Combined Work" results from combining and integrating all or parts of the Program with other code. A Combined Work may be thought of as having multiple parents or being result of multiple lines of code development.
 
-"Derivative Program": means a new program combining the Software or portions thereof with other source code not governed by the terms of this License.
+Section 3. Distribution Licensing Terms
 
-"Initial Developer": means OPEN CASCADE, with main offices at 1, place des Frères Montgolfier, 78280, Guyancourt, France.
+A. General Requirements
+Except as necessary to recognize third-party rights or third-party restriction (see below), a distribution of the Program in any of the forms listed below must not put any further restrictions on the recipient’s exercise of the rights granted herein.
 
-"Modifications": mean any addition to, deletion from or change to the substance or the structure of the Software. When source code of the Software is released as a series of files, a Modification is: (a) any addition to, deletion from or change to the contents of a file containing the Software or (b) any new file or other representation of computer program statements that contains any part of the Software. By way of example, Modifications include any debug of, or improvement to, the Original Code or any of its components or portions as well as its next versions or releases thereof.
+As a Contributor, you represent that your Modification(s) are your original creation(s) and, to the best of your knowledge, no third party has any claim (including but not limited to intellectual property claims) relating to your Modification(s). You represent that each of your Modifications includes complete details of any third-party right or other third-party restriction associated with any part of your Modification (including a copy of any applicable license agreement).
 
-"Original Code": means (a) the source code of the software Open CASCADE Technology originally made available by the Initial Developer under this License, including the source code of any updates or upgrades of the Original Code and (b) the object code compiled from such source code and originally made available by Initial Developer under this License.
+The Program must be distributed without charge beyond the costs of physically transferring the files to the recipient.
 
-"Software": means the Original Code, the Modifications, the combination of Original Code and any Modifications or any respective portions thereof.
+This Warranty Disclaimer/Limitation of Liability must be prominently displayed with every distribution of the Program in any form:
 
-"You" or "Your": means an individual or a legal entity exercising rights under this License
- 
-2. Acceptance of license
-By using, reproducing, modifying, distributing or sublicensing the Software or any portion thereof, You expressly indicate Your acceptance of the terms and conditions of this License and undertake to act in accordance with all the provisions of this License applicable to You.
- 
-3. Scope and purpose
-This License applies to the Software and You may not use, reproduce, modify, distribute, sublicense or circulate the Software, or any portion thereof, except as expressly provided under this License. Any attempt to otherwise use, reproduce, modify, distribute or sublicense the Software is void and will automatically terminate Your rights under this License.
- 
-4. Contributor license
-Subject to the terms and conditions of this License, the Initial Developer and each of the Contributors hereby grant You a world-wide, royalty-free, irrevocable and non-exclusive license under the Applicable Intellectual Property Rights they own or control, to use, reproduce, modify, distribute and sublicense the Software provided that:
+YOU AGREE THAT THE PROGRAM IS PROVIDED AS-IS, WITHOUT WARRANTY OF ANY KIND (EITHER EXPRESS OR IMPLIED). ACCORDINGLY, OCLC MAKES NO WARRANTIES, REPRESENTATIONS OR GUARANTEES, EITHER EXPRESS OR IMPLIED, AND DISCLAIMS ALL SUCH WARRANTIES, REPRESENTATIONS OR GUARANTEES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR ANY PARTICULAR PURPOSE, AS TO: (A) THE FUNCTIONALITY OR NONINFRINGEMENT OF PROGRAM, ANY MODIFICATION, A COMBINED WORK OR AN AGGREGATE WORK; OR (B) THE RESULTS OF ANY PROJECT UNDERTAKEN USING THE PROGRAM, ANY MODIFICATION, A COMBINED WORK OR AN AGGREGATE WORK. IN NO EVENT SHALL THE CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR ANY OTHER DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE PROGRAM, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. YOU HEREBY WAIVE ANY CLAIMS FOR DAMAGES OF ANY KIND AGAINST CONTRIBUTORS WHICH MAY RESULT FROM YOUR USE OF THE PROGRAM.
 
-     You reproduce in all copies of the Software the copyright and other proprietary notices and disclaimers of the Initial Developer as they appear in the Original Code and attached hereto as Schedule "A" and any other notices or disclaimers attached to the Software and keep intact all notices in the Original Code that refer to this License and to the absence of any warranty;
+B. Requirements for a Distribution of Modifiable Code
+If you distribute the Program in a form to which the recipient can make Modifications (e.g. source code), the terms of this license apply to use by recipient. In addition, each source and data file of the Program and any Modification you distribute must contain the following notice:
 
-     You include a copy of this License with every copy of the Software You distribute;
+     "Copyright (c) 2000- (insert then current year) OCLC Online Computer Library Center, Inc. and other contributors. All rights reserved. The contents of this file, as updated from time to time by the OCLC Office of Research, are subject to OCLC Research Public License Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a current copy of the License at http://purl.oclc.org/oclc/research/ORPL/. Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License. This software consists of voluntary contributions made by many individuals on behalf of OCLC Research. For more information on OCLC Research, please see http://www.oclc.org/research/. The Original Code is ______________________________. The Initial Developer of the Original Code is ________________________. Portions created by ______________________ are Copyright (C) _____ _______________________. All Rights Reserved. Contributor(s): ______________________________________."
 
-     If you distribute or sublicense the Software (as modified by You or on Your behalf as the case may be), You cause such Software to be licensed as a whole, at no charge, to all third parties, under the terms and conditions of the License, making in particular available to all third parties the source code of the Software;
+C. Requirements for a Distribution of Non-modifiable Code
+If you distribute the Program in a form to which the recipient cannot make Modifications (e.g. object code), the terms of this license apply to use by recipient and you must include the following statement in appropriate and conspicuous locations:
 
-     You document all Your Modifications, indicate the date of each such Modification, designate the version of the Software You used, prominently include a file carrying such information with respect to the Modifications and duplicate the copyright and other proprietary notices and disclaimers attached hereto as Schedule "B" or any other notices or disclaimers attached to the Software with your Modifications.
+"Copyright (c) 2000- (insert then current year) OCLC Online Computer Library Center, Inc. and other contributors. All rights reserved."
 
-For greater certainty, it is expressly understood that You may freely create Derivative Programs (without any obligation to publish such Derivative Program) and distribute same as a single product. In such case, You must ensure that all the requirements of this License are fulfilled for the Software or any portion thereof.
+In addition, the source code must be included with the object code distribution or the distributor must provide the source code to the recipient upon request.
 
-5. Your license
-You hereby grant all Contributors and anyone who becomes a party under this License a world-wide, non-exclusive, royalty-free and irrevocable license under the Applicable Intellectual Property Rights owned or controlled by You, to use, reproduce, modify, distribute and sublicense all Your Modifications under the terms and conditions of this License.
+D. Requirements for a Combined Work Distribution
+Distributions of Combined Works are subject to the terms of this license and must be made at no charge to the recipient beyond the costs of physically transferring the files to recipient.
 
-6. Software subject to license
-Your Modifications shall be governed by the terms and conditions of this License. You are not authorized to impose any other terms or conditions than those prevailing under this License when You distribute and/or sublicense the Software, save and except as permitted under Section 7 hereof.
+A Combined Work may be distributed as either modifiable or non-modifiable code. The requirements of Section 3.B or 3.C above (as appropriate) apply to such distributions.
 
-7. Additional terms
-You may choose to offer, on a non-exclusive basis, and to charge a fee for any warranty, support, maintenance, liability obligations or other rights consistent with the scope of this License with respect to the Software (the "Additional Terms") to the recipients of the Software. However, You may do so only on Your own behalf and on Your sole and exclusive responsibility. You must obtain the recipient's agreement that any such Additional Terms are offered by You alone, and You hereby agree to indemnify, defend and hold the Initial Developer and any Contributor harmless for any liability incurred by or claims asserted against the Initial Developer or any Contributors with respect to any such Additional Terms.
+An "Aggregate Work" is when the Program exists, without integration, with other programs on a storage medium. This License does not apply to portions of an Aggregate Work which are not covered by the definition of "Program" provided in this License. You are not forbidden from selling an Aggregate Work. However, the Program contained in an Aggregate Work is subject to this License. Also, should the Program be extracted from an Aggregate Work, this License applies to any use of the Program apart from the Aggregate Work.
 
-8. Disclaimer of warranty
-The Software is provided under this License on an "as is" basis, without warranty of any kind, including without limitation, warranties that the Software is free of defects, merchantable, fit for a particular purpose or non-infringing. The entire risk as to the quality and performance of the Software is with You.
+Section 4. License Grant
 
-9. Liability
-Under no circumstances shall You, the Initial Developer or any Contributor be liable to any person for any direct or indirect damages of any kind including, without limitation, damages for loss of goodwill, loss of data, work stoppage, computer failure or malfunction or any and all other commercial damages or losses resulting from or relating to this License or indirectly to the use of the Software.
+For purposes of permitting use of your Modifications by OCLC and other licensees hereunder, you hereby grant to OCLC and such other licensees the non-exclusive, worldwide, royalty-free, transferable, sublicenseable license to execute, copy, alter, delete, modify, adapt, change, revise, enhance, develop, publicly display, distribute (internally and externally) and/or create derivative works based on your Modifications (and derivative works thereof) in accordance with these Terms. This Section 4 shall survive termination of this License for any reason.
 
-10. Trademark
-This License does not grant any rights to use the trademarks, trade names and domain names "MATRA", "EADS Matra Datavision", "CAS.CADE", "Open CASCADE", "opencascade.com" and "opencascade.org" or any other trademarks, trade names or domain names used or owned by the Initial Developer.
+Section 5. Termination of Rights
 
-11. Copyright
-The Initial Developer retains all rights, title and interest in and to the Original Code. You may not remove the copyright © notice which appears when You download the Software.
+This non-exclusive license (with respect to the grant from a particular Contributor) automatically terminates for any entity that initiates legal action for intellectual property infringement (with respect to the Program) against such Contributor as of the initiation of such action.
 
-12. Term
-This License is granted to You for a term equal to the remaining period of protection covered by the intellectual property rights applicable to the Original Code.
+If you fail to comply with this License, your rights (but not your obligations) under this License shall terminate automatically unless you cure such breach within thirty (30) days of becoming aware of the noncompliance. All sublicenses granted by you which preexist such termination and are properly granted shall survive such termination.
 
-13. Termination
-In case of termination, as provided in Section 3 above, You agree to immediately stop any further use, reproduction, modification, distribution and sublicensing of the Software and to destroy all copies of the Software that are in Your possession or control. All sublicenses of the Software which have been properly granted prior to termination shall survive any termination of this License. In addition, Sections 5, 8 to 11, 13.2 and 15.2 of this License, in reason of their nature, shall survive the termination of this License for a period of fifteen (15) years.
+Section 6. Other Terms
 
-14. Versions of the license
-The Initial Developer may publish new versions of this License from time to time. Once Original Code has been published under a particular version of this License, You may choose to continue to use it under the terms and conditions of that version or use the Original Code under the terms of any subsequent version of this License published by the Initial Developer.
+Except for the copyright notices required above, you may not use any trademark of any of the Contributors without the prior written consent of the relevant Contributor. You agree not to remove, alter or obscure any copyright or other proprietary rights notice contained in the Program.
 
-15. Miscellaneous
-     15.1 Relationship of the Parties This License will not be construed as creating an agency, partnership, joint venture or any other form of legal association between You and the Initial Developer, and You will not represent to the contrary, whether expressly, by implication or otherwise.
+All transfers of the Program or any part thereof shall be made in compliance with U.S. import/export regulations or other restrictions of the U.S. Department of Commerce, as well as other similar trade or commerce restrictions which might apply.
 
-     15.2 Independent Development Nothing in this License will impair the Initial Developer's right to acquire, license, develop, have others develop for it, market or distribute technology or products that perform the same or similar functions as, or otherwise compete with, Modifications, Derivative Programs, technology or products that You may develop, produce, market or distribute.
+Any patent obtained by any party covering the Program or any part thereof must include a provision providing for the free, perpetual and unrestricted commercial and noncommercial use by any third party.
 
-     15.3 Severability If for any reason a court of competent jurisdiction finds any provision of this License, or portion thereof, to be unenforceable, that provision of the License will be enforced to the maximum extent permissible so as to effect the economic benefits and intent of the parties, and the remainder of this License will continue in full force and extent.
+If, as a consequence of a court judgment or settlement relating to intellectual property infringement or any other cause of action, conditions are imposed on you that contradict the conditions of this License, such conditions do not excuse you from compliance with this License. If you cannot distribute the Program so as to simultaneously satisfy your obligations under this License and such other conditions, you may not distribute the Program at all. For example, if a patent license would not permit royalty-free redistribution of the Program by all those who receive copies directly or indirectly through you, you could not satisfy both the patent license and this License, and you would be required to refrain entirely from distribution of the Program.
 
-END OF THE TERMS AND CONDITIONS OF THIS LICENSE
+If you learn of a third party claim or other restriction relating to a Program you have already distributed you shall promptly redo your Program to address the issue and take all reasonable steps to inform those who may have received the Program at issue. An example of an appropriate reasonable step to inform would be posting an announcement on an appropriate web bulletin board.
 
-OPEN CASCADE is a French société par actions simplifiée having its registered head office at 1, place des Frères Montgolfier, 78280, Guyancourt, France and main offices at 1, place des Frères Montgolfier, 78280, Guyancourt, France. Its web site is located at the following address opencascade.com
+The provisions of this License are deemed to be severable, and the invalidity or unenforceability of any provision shall not affect or impair the remaining provisions which shall continue in full force and effect. In substitution for any provision held unlawful, there shall be substituted a provision of similar import reflecting the original intent of the parties hereto to the extent permissible under law.
 
-Open CASCADE Technology Public License
-Schedule "A"
+The Original Contributor from time to time may change this License, and the amended license will apply to all copies of the Program downloaded after the new license is posted. This License grants only the rights expressly stated herein and provides you with no implied rights or licenses to the intellectual property of any Contributor.
 
-     The content of this file is subject to the Open CASCADE Technology Public License (the "License"). You may not use the content of this file except in compliance with the License. Please obtain a copy of the License at opencascade.com and read it completely before using this file.
-
-     The Initial Developer of the Original Code is OPEN CASCADE, with main offices at 1, place des Frères Montgolfier, 78280, Guyancourt, France. The Original Code is copyright © OPEN CASCADE SAS, 2001. All rights reserved. "The Original Code and all software distributed under the License are distributed on an "AS IS" basis, without warranty of any kind, and the Initial Developer hereby disclaims all such warranties, including without limitation, any warranties of merchantability, fitness for a particular purpose or non-infringement.
-
-     Please see the License for the specific terms and conditions governing rights and limitations under the License".
-     End of Schedule "A"
-
-Open CASCADE Technology Public License
-Schedule "B"
-
-     "The content of this file is subject to the Open CASCADE Technology Public License (the "License"). You may not use the content of this file except in compliance with the License. Please obtain a copy of the License at opencascade.com and read it completely before using this file.
-
-     The Initial Developer of the Original Code is OPEN CASCADE, with main offices at 1, place des Frères Montgolfier, 78280, Guyancourt, France. The Original Code is copyright © Open CASCADE SAS, 2001. All rights reserved.
-
-     Modifications to the Original Code have been made by ________________________. Modifications are copyright © [Year to be included]. All rights reserved.
-
-     The software Open CASCADE Technology and all software distributed under the License are distributed on an "AS IS" basis, without warranty of any kind, and the Initial Developer hereby disclaims all such warranties, including without limitation, any warranties of merchantability, fitness for a particular purpose or non-infringement.
-
-     Please see the License for the specific terms and conditions governing rights and limitations under the License"
-     End of Schedule "B"
+This License is the complete and exclusive statement of the agreement between the parties concerning the subject matter hereof and may not be amended except by the written agreement of the parties. This License shall be governed by and construed in accordance with the laws of the State of Ohio and the United States of America, without regard to principles of conflicts of law.
