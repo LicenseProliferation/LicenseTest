@@ -1,16 +1,25 @@
-XFree86 License (version 1.1)
+ORIGINAL LICENSE: This software is
 
-Copyright (C) 1994-2006 The XFree86 Project, Inc.
-All rights reserved.
+(c) Copyright 1992 by Panagiotis Tsirigotis
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The author (Panagiotis Tsirigotis) grants permission to use, copy, and distribute this software and its documentation for any purpose and without fee, provided that the above copyright notice extant in files in this distribution is not removed from files included in any redistribution and that this copyright notice is also included in any redistribution.
 
-     1. Redistributions of source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
+Modifications to this software may be distributed, either by distributing the modified software or by distributing patches to the original software, under the following additional terms:
 
-     2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution, and in the same place and form as other copyright, license and disclaimer information.
+1. The version number will be modified as follows:
+     a. The first 3 components of the version number (i.e <number>.<number>.<number>) will remain unchanged.
+     b. A new component will be appended to the version number to indicate the modification level. The form of this component is up to the author of the modifications.
 
-     3. The end-user documentation included with the redistribution, if any, must include the following acknowledgment: "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors", in the same place and form as other third-party acknowledgments. Alternately, this acknowledgment may appear in the software itself, in the same form and location as other such third-party acknowledgments.
+2. The author of the modifications will include his/her name by appending it along with the new version number to this file and will be responsible for any wrong behavior of the modified software.
 
-     4. Except as contained in this notice, the name of The XFree86 Project, Inc shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from The XFree86 Project, Inc.
+The author makes no representations about the suitability of this software for any purpose. It is provided "as is" without any express or implied warranty.
 
-THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE XFREE86 PROJECT, INC OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Modifications: Version: 2.1.8.7-current Copyright 1998-2001 by Rob Braun
+
+Sensor Addition Version: 2.1.8.9pre14a Copyright 2001 by Steve Grubb
+
+This is an exerpt from an email I recieved from the original author, allowing xinetd as maintained by me (Rob Braun), to use the higher version numbers:
+
+I appreciate your maintaining the version string guidelines as specified in the copyright. But I did not mean them to last as long as they did.
+
+So, if you want, you may use any 2.N.* (N >= 3) version string for future xinetd versions that you release. Note that I am excluding the 2.2.* line; using that would only create confusion. Naming the next release 2.3.0 would put to rest the confusion about 2.2.1 and 2.1.8.*.
