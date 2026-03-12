@@ -1,10 +1,19 @@
-Bootloader Exception
---------------------
+Copyright 1993 Francis Borceux
+You may freely use, modify, and/or distribute each of the files in this package without limitation.  The package consists of the following files:
 
-In addition to the permissions in the GNU General Public License, the
-authors give you unlimited permission to link or embed compiled bootloader
-and related files into combinations with other programs, and to distribute
-those combinations without any restriction coming from the use of those
-files. (The General Public License restrictions do apply in other respects;
-for example, they cover modification of the files, and distribution when
-not linked into a combine executable.)
+README
+compatibility/OldDiagram
+compatibility/OldMaxiDiagram
+compatibility/OldMicroDiagram
+compatibility/OldMiniDiagram
+compatibility/OldMultipleArrows
+diagram/Diagram
+diagram/MaxiDiagram
+diagram/MicroDiagram
+diagram/MiniDiagram
+diagram/MultipleArrows
+user-guides/Diagram_Mode_d_Emploi
+user-guides/Diagram_Read_Me
+
+Of course no support is guaranteed, but the author will attempt to assist with problems.  Current email address:
+francis dot borceux at uclouvain dot be.
