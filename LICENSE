@@ -1,12 +1,37 @@
-Qwt License Version 1.0,
-January 1, 2003
+  The author(s) grant permission for redistribution and use in source and
+binary forms, with or without modification, of the software and documentation
+provided that the following conditions are met:
 
-The Qwt library and included programs are provided under the terms of the GNU LESSER GENERAL PUBLIC LICENSE (LGPL) with the following exceptions:
+0. If you receive a version of the software that is specifically labelled
+   as not being for redistribution (check the version message and/or README),
+   you are not permitted to redistribute that version of the software in any
+   way or form.
+1. All terms of all other applicable copyrights and licenses must be
+   followed.
+2. Redistributions of source code must retain the authors' copyright
+   notice(s), this list of conditions, and the following disclaimer.
+3. Redistributions in binary form must reproduce the authors' copyright
+   notice(s), this list of conditions, and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+4. All advertising materials mentioning features or use of this software
+   must display the following acknowledgement with the name(s) of the
+   authors as specified in the copyright notice(s) substituted where
+   indicated:
 
-1. Widgets that are subclassed from Qwt widgets do not constitute a derivative work.
+        This product includes software developed by the authors which are
+	mentioned at the start of the source files and other contributors.
 
-2. Static linking of applications and widgets to the Qwt library does not constitute a derivative work and does not require the author to provide source code for the application or widget, use the shared Qwt libraries, or link their applications or widgets against a user-supplied version of Qwt. If you link the application or widget to a modified version of Qwt, then the changes to Qwt must be provided under the terms of the LGPL in sections 1, 2, and 4.
+5. Neither the name(s) of the author(s) nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
 
-3. You do not have to provide a copy of the Qwt license with programs that are linked to the Qwt library, nor do you have to identify the Qwt license in your program or documentation as required by section 6 of the LGPL.
-
-However, programs must still identify their use of Qwt. The following example statement can be included in user documentation to satisfy this requirement: [program/widget] is based in part on the work of the Qwt project (http://qwt.sf.net)."
+THIS SOFTWARE IS PROVIDED BY ITS AUTHORS AND CONTRIBUTORS ``AS IS'' AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE AUTHORS OR CONTRIBUTORS BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
