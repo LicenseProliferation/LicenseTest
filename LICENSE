@@ -1,16 +1,22 @@
-Copyright (c) 1990- 1993, 1996 Open Software Foundation, Inc.
-Copyright (c) 1989 by Hewlett-Packard Company, Palo Alto, Ca.
-Digital Equipment Corporation, Maynard, Mass.
-Copyright (c) 1998 Microsoft.
-To anyone who acknowledges that this file is provided "AS IS"
-without any express or implied warranty: permission to use, copy,
-modify, and distribute this file for any purpose is hereby
-granted without fee, provided that the above copyright notices and
-this notice appears in all source code copies, and that none of
-the names of Open Software Foundation, Inc., Hewlett-Packard
-Company, Microsoft, or Digital Equipment Corporation be used in
-advertising or publicity pertaining to distribution of the software
-without specific, written prior permission. Neither Open Software
-Foundation, Inc., Hewlett-Packard Company, Microsoft, nor Digital
-Equipment Corporation makes any representations about the
-suitability of this software for any purpose.
+COPYRIGHT 1990
+DIGITAL EQUIPMENT CORPORATION
+MAYNARD, MASSACHUSETTS
+ALL RIGHTS RESERVED.
+
+THE INFORMATION IN THIS SOFTWARE IS SUBJECT TO CHANGE WITHOUT NOTICE AND SHOULD NOT BE CONSTRUED AS A COMMITMENT BY DIGITAL EQUIPMENT CORPORATION.
+DIGITAL MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF THIS SOFTWARE
+FOR ANY PURPOSE. IT IS SUPPLIED "AS IS" WITHOUT EXPRESS OR IMPLIED
+WARRANTY.
+
+IF THE SOFTWARE IS MODIFIED IN A MANNER CREATING DERIVATIVE COPYRIGHT
+RIGHTS, APPROPRIATE LEGENDS MAY BE PLACED ON THE DERIVATIVE WORK IN
+ADDITION TO THAT SET FORTH ABOVE.
+
+Permission to use, copy, modify, and distribute this software and
+its documentation for any purpose and without fee is hereby granted,
+provided that the above copyright notice appear in all copies
+and that both that copyright notice and this permission notice appear in supporting
+documentation,
+and that the name of Digital Equipment Corporation not be
+used in advertising or publicity pertaining to distribution of the
+software without specific, written prior permission.
