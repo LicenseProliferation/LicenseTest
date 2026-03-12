@@ -1,69 +1,55 @@
-Open Government Licence v3.0
+The Open Group Test Suite License
 
-You are encouraged to use and re-use the Information that is available under this licence freely and flexibly, with only a few conditions.
+Preamble
 
-Using Information under this licence
-Use of copyright and database right material expressly made available under this licence (the 'Information') indicates your acceptance of the terms and conditions below.
+The intent of this document is to state the conditions under which a Package may be copied, such that the Copyright Holder maintains some semblance of artistic control over the development of the package, while giving the users of the package the right to use and distribute the Package in a more-or-less customary fashion, plus the right to make reasonable modifications.
 
-The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information subject to the conditions below.
+Testing is essential for proper development and maintenance of standards-based products.
 
-This licence does not affect your freedom under fair dealing or fair use or any other copyright or database right exceptions and limitations.
+For buyers: adequate conformance testing leads to reduced integration costs and protection of investments in applications, software and people.
 
-You are free to:
-copy, publish, distribute and transmit the Information;
-adapt the Information;
-exploit the Information commercially and non-commercially for example, by combining it with other Information, or by including it in your own product or application.
-You must (where you do any of the above):
-acknowledge the source of the Information in your product or application by including or linking to any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence;
- If the Information Provider does not provide a specific attribution statement, you must use the following:
+For software developers: conformance testing of platforms and middleware greatly reduces the cost of developing and maintaining multi-platform application software.
 
- Contains public sector information licensed under the Open Government Licence v3.0.
+For suppliers: In-depth testing increases customer satisfaction and keeps development and support costs in check. API conformance is highly measurable and suppliers who claim it must be able to substantiate that claim.
 
-If you are using Information from several Information Providers and listing multiple attributions is not practical in your product or application, you may include a URI or hyperlink to a resource that contains the required attribution statements.
+As such, since these are benchmark measures of conformance, we feel the integrity of test tools is of importance. In order to preserve the integrity of the existing conformance modes of this test package and to permit recipients of modified versions of this package to run the original test modes, this license requires that the original test modes be preserved.
 
-These are important conditions of this licence and if you fail to comply with them the rights granted to you under this licence, or any similar licence granted by the Licensor, will end automatically.
+If you find a bug in one of the standards mode test cases, please let us know so we can feed this back into the original, and also raise any specification issues with the appropriate bodies (for example the POSIX committees).
 
- Exemptions
-This licence does not cover:
+Definitions:
 
-personal data in the Information;
-Information that has not been accessed by way of publication or disclosure under information access legislation (including the Freedom of Information Acts for the UK and Scotland) by or with the consent of the Information Provider;
-departmental or public sector organisation logos, crests and the Royal Arms except where they form an integral part of a document or dataset;
-military insignia;
-third party rights the Information Provider is not authorised to license;
-other intellectual property rights, including patents, trade marks, and design rights; and
-identity documents such as the British Passport
-Non-endorsement
-This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.
+     "Package" refers to the collection of files distributed by the Copyright Holder, and derivatives of that collection of files created through textual modification.
 
-No warranty
-The Information is licensed 'as is' and the Information Provider and/or Licensor excludes all representations, warranties, obligations and liabilities in relation to the Information to the maximum extent permitted by law.
+     "Standard Version" refers to such a Package if it has not been modified, or has been modified in accordance with the wishes of the Copyright Holder.
 
-The Information Provider and/or Licensor are not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.
+     "Copyright Holder" is whoever is named in the copyright or copyrights for the package.
 
-Governing Law
-This licence is governed by the laws of the jurisdiction in which the Information Provider has its principal place of business, unless otherwise specified by the Information Provider.
+     "You" is you, if you're thinking about copying or distributing this Package.
 
-Definitions
-In this licence, the terms below have the following meanings:
+     "Reasonable copying fee" is whatever you can justify on the basis of media cost, duplication charges, time of people involved, and so on. (You will not be required to justify it to the Copyright Holder, but only to the computing community at large as a market that must bear the fee.)
 
-'Information' means information protected by copyright or by database right (for example, literary and artistic works, content, data and source code) offered for use under the terms of this licence.
+     "Freely Available" means that no fee is charged for the item itself, though there may be fees involved in handling the item. It also means that recipients of the item may redistribute it under the same conditions they received it.
 
-'Information Provider' means the person or organisation providing the Information under this licence.
+1. You may make and give away verbatim copies of the source form of the Standard Version of this Package without restriction, provided that you duplicate all of the original copyright notices and associated disclaimers.
 
-'Licensor' means any Information Provider which has the authority to offer Information under the terms of this licence or the Keeper of Public Records, who has the authority to offer Information subject to Crown copyright and Crown database rights and Information subject to copyright and database right that has been assigned to or acquired by the Crown, under the terms of this licence.
+2. You may apply bug fixes, portability fixes and other modifications derived from the Public Domain or from the Copyright Holder. A Package modified in such a way shall still be considered the Standard Version.
 
-'Use' means doing any act which is restricted by copyright or database right, whether in the original medium or in any other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary to use it in a different mode or format.
+3. You may otherwise modify your copy of this Package in any way, provided that you insert a prominent notice in each changed file stating how and when you changed that file, and provided that you do at least the following:
 
-'You', 'you' and 'your' means the natural or legal person, or body of persons corporate or incorporate, acquiring rights in the Information (whether the Information is obtained directly from the Licensor or otherwise) under this licence.
+     rename any non-standard executables and testcases so the names do not conflict with standard executables and testcases, which must also be provided, and provide a separate manual page for each non-standard executable and testcase that clearly documents how it differs from the Standard Version.
 
-About the Open Government Licence
-The National Archives has developed this licence as a tool to enable Information Providers in the public sector to license the use and re-use of their Information under a common open licence. The National Archives invites public sector bodies owning their own copyright and database rights to permit the use of their Information under this licence.
+4. You may distribute the programs of this Package in object code or executable form, provided that you do at least the following:
 
-The Keeper of the Public Records has authority to license Information subject to copyright and database right owned by the Crown. The extent of the offer to license this Information under the terms of this licence is set out in the UK Government Licensing Framework.
+     accompany any non-standard executables and testcases with their corresponding Standard Version executables and testcases, giving the non-standard executables and testcases non-standard names, and clearly documenting the differences in manual pages (or equivalent), together with instructions on where to get the Standard Version.
 
-This is version 3.0 of the Open Government Licence. The National Archives may, from time to time, issue new versions of the Open Government Licence. If you are already using Information under a previous version of the Open Government Licence, the terms of that licence will continue to apply.
+5. You may charge a reasonable copying fee for any distribution of this Package. You may charge any fee you choose for support of this Package. You may not charge a fee for this Package itself. However, you may distribute this Package in aggregate with other (possibly commercial) programs as part of a larger (possibly commercial) software distribution provided that you do not advertise this Package as a product of your own.
 
-These terms are compatible with the Creative Commons Attribution License 4.0 and the Open Data Commons Attribution License, both of which license copyright and database rights. This means that when the Information is adapted and licensed under either of those licences, you automatically satisfy the conditions of the OGL when you comply with the other licence. The OGLv3.0 is Open Definition compliant.
+6. The scripts and library files supplied as input to or produced as output from the programs of this Package do not automatically fall under the copyright of this Package, but belong to whomever generated them, and may be sold commercially, and may be aggregated with this Package.
 
-Further context, best practice and guidance can be found in the UK Government Licensing Framework section on The National Archives website.
+7.Subroutines supplied by you and linked into this Package shall not be considered part of this Package.
+
+8. The name of the Copyright Holder may not be used to endorse or promote products derived from this software without specific prior written permission.
+
+9. THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+The End
