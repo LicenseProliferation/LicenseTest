@@ -1,19 +1,17 @@
-Copyright 1993 Francis Borceux
-You may freely use, modify, and/or distribute each of the files in this package without limitation.  The package consists of the following files:
+Copyright (C) 1998-2013, Brian Gladman, Worcester, UK. All
+   rights reserved.
 
-README
-compatibility/OldDiagram
-compatibility/OldMaxiDiagram
-compatibility/OldMicroDiagram
-compatibility/OldMiniDiagram
-compatibility/OldMultipleArrows
-diagram/Diagram
-diagram/MaxiDiagram
-diagram/MicroDiagram
-diagram/MiniDiagram
-diagram/MultipleArrows
-user-guides/Diagram_Mode_d_Emploi
-user-guides/Diagram_Read_Me
+The redistribution and use of this software (with or without
+changes) is allowed without the payment of fees or royalties
+provided that:
 
-Of course no support is guaranteed, but the author will attempt to assist with problems.  Current email address:
-francis dot borceux at uclouvain dot be.
+   source code distributions include the above copyright notice,
+   this list of conditions and the following disclaimer;
+
+   binary distributions include the above copyright notice, this
+   list of conditions and the following disclaimer in their
+   documentation.
+
+This software is provided 'as is' with no explicit or implied
+warranties in respect of its operation, including, but not limited
+to, correctness and fitness for purpose.
