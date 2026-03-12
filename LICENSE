@@ -1,45 +1,37 @@
-SOLDERPAD HARDWARE LICENSE VERSION 2.1
+Simple Public License (SimPL)
 
-This license operates as a wraparound license to the Apache License Version 2.0 (the "Apache License") and incorporates the terms and conditions of the Apache License (which can be found here: http://apache.org/licenses/LICENSE-2.0), with the following additions and modifications. It must be read in conjunction with the Apache License. Section 1 below modifies definitions and terminology in the Apache License and Section 2 below replaces Section 2 of the Apache License. The Appendix replaces the Appendix in the Apache License. You may, at your option, choose to treat any Work released under this license as released under the Apache License (thus ignoring all sections written below entirely).
+Preamble
 
-1.	Terminology in the Apache License is supplemented or modified as follows:
+This Simple Public License 2.0 (SimPL 2.0 for short) is a plain language implementation of GPL 2.0.  The words are different, but the goal is the same - to guarantee for all users the freedom to share and change software.  If anyone wonders about the meaning of the SimPL, they should interpret it as consistent with GPL 2.0.
 
-"Authorship": any reference to 'authorship' shall be taken to read "authorship or design".
+Simple Public License (SimPL) 2.0
 
-"Copyright owner": any reference to 'copyright owner' shall be taken to read "Rights owner".
+The SimPL applies to the software's source and object code and comes with any rights that I have in it (other than trademarks). You agree to the SimPL by copying, distributing, or making a derivative work of the software.
 
-"Copyright statement": the reference to 'copyright statement' shall be taken to read 'copyright or other statement pertaining to Rights'
+You get the royalty free right to:
 
-The following new definition shall be added to the Definitions section of the Apache License:
+- Use the software for any purpose;
+- Make derivative works of it (this is called a "Derived Work");
+- Copy and distribute it and any Derived Work.
 
-"Rights" means copyright and any similar right including design right (whether registered or unregistered), rights in semiconductor topographies (mask works) and database rights (but excluding Patents and Trademarks).
+If you distribute the software or a Derived Work, you must give back to the community by:
 
-The following definitions shall replace the corresponding definitions in the Apache License:
+- Prominently noting the date of any changes you make;
+- Leaving other people's copyright notices, warranty disclaimers, and license terms  in place;
+- Providing the source code, build scripts, installation scripts, and interface definitions in a form that is easy to get and best to modify;
+- Licensing it to everyone under SimPL, or substantially similar terms (such as GPL 2.0), without adding further restrictions to the rights provided;
+- Conspicuously announcing that it is available under that license.
 
-"License" shall mean this Solderpad Hardware License version 2.1, being the terms and conditions for use, manufacture, instantiation, adaptation, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+There are some things that you must shoulder:
 
-"Licensor" shall mean the Rights owner or entity authorized by the Rights owner that is granting the License.
- 
-"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship or design. For the purposes of this License, Derivative Works shall not include works that remain reversibly separable from, or merely link (or bind by name) or physically connect to or interoperate with the Work and Derivative Works thereof.
+- You get NO WARRANTIES. None of any kind;
+- If the software damages you in any way, you may only recover direct damages up to the amount you paid for it (that is zero if you did not pay anything). You may not recover any other damages, including those called "consequential damages." (The state or country where you live may not allow you to limit your liability in this way, so this may not apply to you);
 
-"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form or the application of a Source form to physical material, including but not limited to compiled object code, generated documentation, the instantiation of a hardware design or physical object or material and conversions to other media types, including intermediate forms such as bytecodes, FPGA bitstreams, moulds, artwork and semiconductor topographies (mask works).
+The SimPL continues perpetually, except that your license rights end automatically if:
 
-"Source" form shall mean the preferred form for making modifications, including but not limited to source code, net lists, board layouts, CAD files, documentation source, and configuration files.
+- You do not abide by the "give back to the community" terms (your licensees get to keep their rights if they abide);
+- Anyone prevents you from distributing the software under the terms of the SimPL.
 
-"Work" shall mean the work of authorship or design, whether in Source or Object form, made available under the License, as indicated by a notice relating to Rights that is included in or attached to the work (an example is provided in the Appendix below).
+License for the License
 
-2.	Grant of License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license under the Rights to reproduce, prepare Derivative Works of, make, adapt, repair, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form and do anything in relation to the Work as if the Rights did not exist.
-
-
-APPENDIX
-
-Copyright [yyyy] [name of copyright owner]
-SPDX-License-Identifier: Apache-2.0 WITH SHL-2.1
-
-Licensed under the Solderpad Hardware License v 2.1 (the "License"); you may not use this file except in compliance with the License, or, at your option, the Apache License version 2.0.
-You may obtain a copy of the License at
-
-https://solderpad.org/licenses/SHL-2.1/
-   
-Unless required by applicable law or agreed to in writing, any work distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and limitations under the License.
+You may do anything that you want with the SimPL text; it's a license form to use in any way that you find helpful.  To avoid confusion, however, if you change the terms in any way then you may not call your license the Simple Public License or the SimPL (but feel free to acknowledge that your license is "based on the Simple Public License").
