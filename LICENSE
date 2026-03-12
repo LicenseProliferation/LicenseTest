@@ -1,7 +1,7 @@
 The LaTeX Project Public License
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-LPPL Version 1.1 1999-07-10
+LPPL Version 1.2 1999-09-03
 
 Copyright 1999 LaTeX3 Project
 
@@ -53,19 +53,18 @@ You may distribute a modified file of The Program if, and only if, the following
 
 Note that in the above, `distribution' of a file means making the file available to others by any means. This includes, for instance, installing the file on any machine in such a way that the file is accessible by users other than yourself. `Modification' of a file means any procedure that produces a derivative file under any applicable law -- that is, a file containing the original file or a significant portion of it, either verbatim or with modifications and/or translated into another language.
 
-Changing the name of a file is considered to be a modification of the file.
+Changing the name of a file (other than as necessitated by the file conventions of the target file systems) is considered to be a modification of the file.
 
 The distribution conditions in this license do not have to be applied to files that have been modified in accordance with the above conditions. Note, however, that Condition 7. does apply to any such modified file.
 
 The conditions above are not intended to prohibit, and hence do not apply to, the updating, by any method, of a file so that it becomes identical to the latest version of that file of The Program.
 
-A Recommendation on Modification Without Distribution
------------------------------------------------------
+
+A Recommendation on Modification Without Distribution -----------------------------------------------------
 
 It is wise never to modify a file of The Program, even for your own personal use, without also meeting the above eight conditions for distributing the modified file. While you might intend that such modified files will never be distributed, often this will happen by accident -- you may forget that you have modified the file; or it may not occur to you when allowing others to access the modified file that you are thus distributing it and violating the conditions of this license. It is usually in your best interest to keep your copy of The Program identical with the public one. Many programs provide ways to control the behavior of that program without altering its licensed files.
 
-Additional Conditions on Individual Files of The Program
---------------------------------------------------------
+Additional Conditions on Individual Files of The Program --------------------------------------------------------
 
 An individual file of The Program may bear additional conditions that supplement and/or supersede the conditions in this license if, and only if, such additional conditions exclusively concern modification of the file or distribution of a modified version of the file. The conditions on individual files of The Program therefore may differ only with respect to the kind and extent of modification of those files that is allowed, and with respect to the distribution of modified versions of those files.
 
@@ -89,10 +88,9 @@ NO WARRANTY
 
 There is no warranty for The Program. Except when otherwise stated in writing, The Copyright Holder provides The Program `as is', without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of The Program is with you. Should The Program prove defective, you assume the cost of all necessary servicing, repair, or correction.
 
-In no event unless agreed to in writing will The Copyright Holder, or any author named in the files of The Program, or any other party who may distribute and/or modify The Program as permitted below, be liable to you for damages, including any general, special, incidental or consequential damages arising out of any use of The Program or out of inability to use The Program (including, but not limited to, loss of data, data being rendered inaccurate, or losses sustained by anyone as a result of any failure of The Program to operate with any other programs), even if The Copyright Holder or said author or said other party has been advised of the possibility of such damages.
+In no event unless agreed to in writing will The Copyright Holder, or any author named in the files of The Program, or any other party who may distribute and/or modify The Program as permitted above, be liable to you for damages, including any general, special, incidental or consequential damages arising out of any use of The Program or out of inability to use The Program (including, but not limited to, loss of data, data being rendered inaccurate, or losses sustained by anyone as a result of any failure of The Program to operate with any other programs), even if The Copyright Holder or said author or said other party has been advised of the possibility of such damages.
 
-WHETHER AND HOW TO DISTRIBUTE PROGRAMS UNDER THIS LICENSE
-=========================================================
+WHETHER AND HOW TO DISTRIBUTE PROGRAMS UNDER THIS LICENSE =========================================================
 
 This section contains important instructions, examples, and recommendations for authors who are considering distributing their programs under this license. These authors are addressed as `you' in this section.
 
@@ -114,10 +112,12 @@ Here is an example of such a notice and statement:
      %% Copyright 2001 M. Y. Name
      %
      % This program may be distributed and/or modified under the
-     % conditions of the LaTeX Project Public License, either version 1.1
+     % conditions of the LaTeX Project Public License, either version 1.2
      % of this license or (at your option) any later version.
-     % The latest version of this license is in % http://www.latex-project.org/lppl.txt
-     % and version 1.1 or later is part of all distributions of LaTeX % version 1999/06/01 or later.
+     % The latest version of this license is in
+     % http://www.latex-project.org/lppl.txt
+     % and version 1.2 or later is part of all distributions of LaTeX
+     % version 1999/12/01 or later.
      %
      % This program consists of the files pig.dtx and pig.ins
 
@@ -130,12 +130,10 @@ Defining What Constitutes The Program
 
 The LPPL requires that distributions of The Program contain all the files of The Program. It is therefore important that you provide a way for the licensee to determine which files constitute The Program. This could, for example, be achieved by explicitly listing all the files of The Program near the copyright notice of each file or by using a line like
 
-      % This program consists of all files listed in manifest.txt.
+     % This program consists of all files listed in manifest.txt.
 
 in that place. In the absence of an unequivocal list it might be impossible for the licensee to determine what is considered by you to comprise The Program.
 
-Noting Exceptional Files
-
-If The Program contains any files bearing additional conditions on modification, or on distribution of modified versions, of those files (other than those listed in `Additional Conditions on LaTeX Software Files'), then it is recommended that The Program contain a prominent file that defines the exceptional conditions, and either lists the exceptional files or defines one or more categories of exceptional files.
+Noting Exceptional Files If The Program contains any files bearing additional conditions on modification, or on distribution of modified versions, of those files (other than those listed in `Additional Conditions on LaTeX Software Files'), then it is recommended that The Program contain a prominent file that defines the exceptional conditions, and either lists the exceptional files or defines one or more categories of exceptional files.
 
 Files containing the text of a license (such as this file) are often examples of files bearing more restrictive conditions on modification. LaTeX configuration files (with filename extension `.cfg') are examples of files bearing less restrictive conditions on the distribution of a modified version of the file. The additional conditions on LaTeX software given above are examples of declaring a category of files bearing exceptional additional conditions.
