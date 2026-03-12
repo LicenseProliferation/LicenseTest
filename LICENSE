@@ -1,22 +1,24 @@
-Copyright (C) 1994 by the University of Southern California
+Copyright (C) 1994 CyberSAFE Corporation.
+Copyright 1990,1991,2007,2008 by the Massachusetts
+Institute of Technology.
+All Rights Reserved.
 
-   EXPORT OF THIS SOFTWARE from the United States of America may
-   require a specific license from the United States Government. It
-   is the responsibility of any person or organization
-   contemplating export to obtain such a license before exporting.
+Export of this software from the United States of America may
+require a specific license from the United States Government.  It
+is the responsibility of any person or organization
+contemplating export to obtain such a license before exporting.
 
-WITHIN THAT CONSTRAINT, permission to copy, modify, and distribute
-this software and its documentation in source and binary forms is
-hereby granted, provided that any documentation or other materials
-related to such distribution or use acknowledge that the software
-was developed by the University of Southern California.
-
-DISCLAIMER OF WARRANTY.  THIS SOFTWARE IS PROVIDED "AS IS".  The
-University of Southern California MAKES NO REPRESENTATIONS OR
-WARRANTIES, EXPRESS OR IMPLIED.  By way of example, but not
-limitation, the University of Southern California MAKES NO
-REPRESENTATIONS OR WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY
-PARTICULAR PURPOSE. The University of Southern California shall not
-be held liable for any liability nor for any direct, indirect, or
-consequential damages with respect to any claim by the user or
-distributor of the ksu software.
+WITHIN THAT CONSTRAINT, permission to use, copy, modify, and
+distribute this software and its documentation for any purpose and
+without fee is hereby granted, provided that the above copyright
+notice appear in all copies and that both that copyright notice and
+this permission notice appear in supporting documentation, and that
+the name of M.I.T. not be used in advertising or publicity
+pertaining to distribution of the software without specific,
+written prior permission.  Furthermore if you modify this software
+you must label your software as modified software and not
+distribute it in such a fashion that it might be confused with the
+original M.I.T. software.  Neither M.I.T., the Open Computing
+Security Group, nor CyberSAFE Corporation make any representations
+about the suitability of this software for any purpose.  It is
+provided "as is" without express or implied warranty.
