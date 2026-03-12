@@ -1,7 +1,13 @@
-Historical Permission Notice and Disclaimer
+HTML Tidy License
 
-Copyright <year> <copyright holder>
+This software and documentation is provided "as is," and the copyright holders and contributing author(s) make no representations or warranties, express or implied, including but not limited to, warranties of merchantability or fitness for any particular purpose or that the use of the software or documentation will not infringe any third party patents, copyrights, trademarks or other rights.
 
-Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies, and that both that copyright notice and this permission notice appear in supporting documentation, and that the name of <copyright holder> or <related entities> not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. <copyright holder> makes no representations about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.
+The copyright holders and contributing author(s) will not be held liable for any direct, indirect, special or consequential damages arising out of any use of the software or documentation, even if advised of the possibility of such damage.
 
-<copyright holder> DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS,. IN NO EVENT SHALL <copyright holder> BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+Permission is hereby granted to use, copy, modify, and distribute this source code, or portions hereof, documentation and executables, for any purpose, without fee, subject to the following restrictions:
+
+    1. The origin of this source code must not be misrepresented.
+    2. Altered versions must be plainly marked as such and must not be misrepresented as being the original source.
+    3. This Copyright notice may not be removed or altered from any source or altered source distribution.
+
+The copyright holders and contributing author(s) specifically permit, without fee, and encourage the use of this source code as a component for supporting the Hypertext Markup Language in commercial products. If you use this source code in a product, acknowledgement is not required but would be appreciated.
