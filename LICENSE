@@ -1,15 +1,25 @@
-LICENSE
--------
+Copyright (c) 1993-2002 Paul Mackerras. All rights reserved.
 
-LZMA SDK is written and placed in the public domain by Igor Pavlov.
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions
+ are met:
+ 
+ 1. Redistributions of source code must retain the above copyright
+     notice, this list of conditions and the following disclaimer.
+ 
+2. The name(s) of the authors of this software must not be used to
+   endorse or promote products derived from this software without
+   prior written permission.
 
-Some code in LZMA SDK is based on public domain code from another developers:
-  1) PPMd var.H (2001): Dmitry Shkarin
-  2) SHA-256: Wei Dai (Crypto++ library)
+3. Redistributions of any form whatsoever must retain the following
+   acknowledgment:
+   "This product includes software developed by Paul Mackerras
+   <paulus@ozlabs.org>".
 
-Anyone is free to copy, modify, publish, use, compile, sell, or distribute the
-original LZMA SDK code, either in source code form or as a compiled binary, for
-any purpose, commercial or non-commercial, and by any means.
-
-LZMA SDK code is compatible with open source licenses, for example, you can
-include it to GNU GPL or GNU LGPL code.
+THE AUTHORS OF THIS SOFTWARE DISCLAIM ALL WARRANTIES WITH REGARD TO
+THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS, IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY
+SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN
+AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
+OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
