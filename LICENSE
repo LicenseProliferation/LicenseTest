@@ -1,38 +1,219 @@
-Condor Public License
+                   copyleft-next 0.3.0 ("this License")
+                         Release date: 2013-05-16
 
-Version 1.1, October 30, 2003
+1. License Grants; No Trademark License
 
-Copyright © 1990-2006 Condor Team, Computer Sciences Department, University of Wisconsin-Madison, Madison, WI. All Rights Reserved. For more information contact: Condor Team, Attention: Professor Miron Livny, Dept of Computer Sciences, 1210 W. Dayton St., Madison, WI 53706-1685, (608) 262-0856 or miron@cs.wisc.edu.
+   Subject to the terms of this License, I grant You:
 
-This software referred to as the Condor® Version 6.x software ("Software") was developed by the Condor Project, Condor Team, Computer Sciences Department, University of Wisconsin-Madison, under the authority of the Board of Regents of the University of Wisconsin System and includes voluntary contributions made to the Condor Project ("Copyright Holders and Contributors and the University"). For more information on the Condor Project, please see http://www.condorproject.org/.
+   a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
+      copyright license, to reproduce, Distribute, prepare derivative works
+      of, publicly perform and publicly display My Work.
 
-Installation, use, reproduction, display, modification and redistribution of this Software, with or without modification, in source and binary forms, are permitted. Any exercise of rights under this license including sublicenses by you is subject to the following conditions:
+   b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
+      patent license under Licensed Patents to make, have made, use, sell,
+      offer for sale, and import Covered Works.
 
-1.	Redistributions of this Software, with or without modification, must reproduce this Condor Public License in: (1) the Software, and (2) any user documentation or other similar material which is provided with the Software.
+   This License does not grant any rights in My name, trademarks, service
+   marks, or logos.
 
-2.	Any user documentation included with a redistribution must include the following notice:
-``This product includes software from the Condor® Project (http://www.condorproject.org/)"
-Alternatively, if that is where third-party acknowledgments normally appear, this acknowledgment must be reproduced in the Software itself.
-3.	Any academic report, publication, or other academic disclosure of results obtained with this Software will acknowledge this Software's use by an appropriate citation.
+2. Distribution: General Conditions
 
-4.	The name Condor® is a registered trademark of the University of Wisconsin-Madison. The trademark may not be used to endorse or promote software, or products derived therefrom, and, other than as required by section 2 and 3 above, it may not be affixed to modified redistributions of this Software without the prior written approval, obtainable via email to condor-admin@cs.wisc.edu.
+   You may Distribute Covered Works, provided that You (i) inform
+   recipients how they can obtain a copy of this License; (ii) satisfy the
+   applicable conditions of sections 3 through 6; and (iii) preserve all
+   Legal Notices contained in My Work (to the extent they remain
+   pertinent). "Legal Notices" means copyright notices, license notices,
+   license texts, and author attributions, but does not include logos,
+   other graphical images, trademarks or trademark legends.
 
-5.	To the extent that patent claims licensable by the University of Wisconsin-Madison are necessarily infringed by the use or sale of the Software, you are granted a non-exclusive, worldwide, royalty- free perpetual license under such patent claims, with the rights for you to make, use, sell, offer to sell, import and otherwise transfer the Software in source code and object code form and derivative works. This patent license shall apply to the combination of the Software with other software if, at the time the Software is added by you, such addition of the Software causes such combination to be covered by such patent claims. This patent license shall not apply to any other combinations which include the Software. No hardware per se is licensed hereunder.If you or any subsequent sub-licensee (a ``Recipient") institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Software infringes such Recipient's patent(s), then such Recipient's rights granted (directly or indirectly) under the patent license above shall terminate as of the date such litigation is filed. All sublicenses to the Software which have been properly granted prior to termination shall survive any termination of said patent license, if not otherwise terminated pursuant to this section.
+3. Conditions for Distributing Derived Works; Outbound GPL Compatibility
 
-6.	DISCLAIMER
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS AND THE UNIVERSITY "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, OF SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE OR USE ARE DISCLAIMED. THE COPYRIGHT HOLDERS AND CONTRIBUTORS AND THE UNIVERSITY MAKE NO REPRESENTATION THAT THE SOFTWARE, MODIFICATIONS, ENHANCEMENTS OR DERIVATIVE WORKS THEREOF, WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK, TRADE SECRET OR OTHER PROPRIETARY RIGHT.
-7.	LIMITATION OF LIABILITY
-THE COPYRIGHT HOLDERS AND CONTRIBUTORS AND ANY OTHER OFFICER, AGENT, OR EMPLOYEE OF THE UNIVERSITY SHALL HAVE NO LIABILITY TO LICENSEE OR OTHER PERSONS FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, LOSS OF USE, DATA OR PROFITS, OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-8.	Certain uses and transfers of the Software or documentation, and/or items or software incorporating the Condor Software or documentation, may require a license under U.S. Export Control laws. Licensee represents and warrants that all uses and transfers of the Condor Software or documentation and/or any items or software incorporating Condor shall be in compliance with U.S. Export Control laws, and Licensee further understands that failure to comply with such export control laws may result in criminal liability to Licensee under U.S. laws.
+   If You Distribute a Derived Work, You must license the entire Derived
+   Work as a whole under this License, with prominent notice of such
+   licensing. This condition may not be avoided through such means as
+   separate Distribution of portions of the Derived Work. You may
+   additionally license the Derived Work under the GPL, so that the
+   recipient may further Distribute the Derived Work under either this
+   License or the GPL.
 
-9.	The Condor Team may publish revised and/or new versions of this Condor Public License (``this License") from time to time. Each version will be given a distinguishing version number. Once Software has been published under a particular version of this License, you may always continue to use it under the terms of that version. You may also choose to use such Software under the terms of any subsequent version of this License published by the Condor Team. No one other than the Condor Team has the right to modify the terms of this License.
+4. Condition Against Further Restrictions; Inbound License Compatibility
 
-For more information:
+   When Distributing a Covered Work, You may not impose further
+   restrictions on the exercise of rights in the Covered Work granted under
+   this License. This condition is not excused merely because such
+   restrictions result from Your compliance with conditions or obligations
+   extrinsic to this License (such as a court order or an agreement with a
+   third party).
 
-Condor Team
-Attention: Professor Miron Livny
-7367 Computer Sciences
-1210 W. Dayton St.
-Madison, WI 53706-1685
-miron@cs.wisc.edu
-http://pages.cs.wisc.edu/~miron/miron.html
+   However, You may Distribute a Covered Work incorporating material
+   governed by a license that is both OSI-Approved and FSF-Free as of the
+   release date of this License, provided that Your Distribution complies
+   with such other license.
+
+5. Conditions for Distributing Object Code
+
+   You may Distribute an Object Code form of a Covered Work, provided that
+   you accompany the Object Code with a URL through which the Corresponding
+   Source is made available, at no charge, by some standard or customary
+   means of providing network access to source code.
+
+   If you Distribute the Object Code in a physical product or tangible
+   storage medium ("Product"), the Corresponding Source must be available
+   through such URL for two years from the date of Your most recent
+   Distribution of the Object Code in the Product. However, if the Product
+   itself contains or is accompanied by the Corresponding Source (made
+   available in a customarily accessible manner), You need not also comply
+   with the first paragraph of this section.
+
+   Each recipient of the Covered Work from You is an intended third-party
+   beneficiary of this License solely as to this section 5, with the right
+   to enforce its terms.
+
+6. Symmetrical Licensing Condition for Upstream Contributions
+
+   If You Distribute a work to Me specifically for inclusion in or
+   modification of a Covered Work (a "Patch"), and no explicit licensing
+   terms apply to the Patch, You license the Patch under this License, to
+   the extent of Your copyright in the Patch. This condition does not
+   negate the other conditions of this License, if applicable to the Patch.
+
+7. Nullification of Copyleft/Proprietary Dual Licensing
+
+   If I offer to license, for a fee, a Covered Work under terms other than
+   a license that is OSI-Approved or FSF-Free as of the release date of this
+   License or a numbered version of copyleft-next released by the
+   Copyleft-Next Project, then the license I grant You under section 1 is no
+   longer subject to the conditions in sections 2 through 5.
+
+8. Copyleft Sunset
+
+   The conditions in sections 2 through 5 no longer apply once fifteen
+   years have elapsed from the date of My first Distribution of My Work
+   under this License.
+
+9. Pass-Through
+
+   When You Distribute a Covered Work, the recipient automatically receives
+   a license to My Work from Me, subject to the terms of this License.
+
+10. Termination
+
+    Your license grants under section 1 are automatically terminated if You
+
+    a) fail to comply with the conditions of this License, unless You cure
+       such noncompliance within thirty days after becoming aware of it, or
+
+    b) initiate a patent infringement litigation claim (excluding
+       declaratory judgment actions, counterclaims, and cross-claims)
+       alleging that any part of My Work directly or indirectly infringes
+       any patent.
+
+    Termination of Your license grants extends to all copies of Covered
+    Works You subsequently obtain. Termination does not terminate the
+    rights of those who have received copies or rights from You subject to
+    this License.
+
+    To the extent permission to make copies of a Covered Work is necessary
+    merely for running it, such permission is not terminable.
+
+11. Later License Versions
+
+    The Copyleft-Next Project may release new versions of copyleft-next,
+    designated by a distinguishing version number ("Later Versions").
+    Unless I explicitly remove the option of Distributing Covered Works
+    under Later Versions, You may Distribute Covered Works under any Later
+    Version.
+
+** 12. No Warranty                                                       **
+**                                                                       **
+**     My Work is provided "as-is", without warranty. You bear the risk  **
+**     of using it. To the extent permitted by applicable law, each      **
+**     Distributor of My Work excludes the implied warranties of title,  **
+**     merchantability, fitness for a particular purpose and             **
+**     non-infringement.                                                 **
+
+** 13. Limitation of Liability                                           **
+**                                                                       **
+**     To the extent permitted by applicable law, in no event will any   **
+**     Distributor of My Work be liable to You for any damages           **
+**     whatsoever, whether direct, indirect, special, incidental, or     **
+**     consequential damages, whether arising under contract, tort       **
+**     (including negligence), or otherwise, even where the Distributor  **
+**     knew or should have known about the possibility of such damages.  **
+
+14. Severability
+
+    The invalidity or unenforceability of any provision of this License
+    does not affect the validity or enforceability of the remainder of
+    this License. Such provision is to be reformed to the minimum extent
+    necessary to make it valid and enforceable.
+
+15. Definitions
+
+    "Copyleft-Next Project" means the project that maintains the source
+    code repository at <https://gitorious.org/copyleft-next/> as of the
+    release date of this License.
+
+    "Corresponding Source" of a Covered Work in Object Code form means (i)
+    the Source Code form of the Covered Work; (ii) all scripts,
+    instructions and similar information that are reasonably necessary for
+    a skilled developer to generate such Object Code from the Source Code
+    provided under (i); and (iii) a list clearly identifying all Separate
+    Works (other than those provided in compliance with (ii)) that were
+    specifically used in building and (if applicable) installing the
+    Covered Work (for example, a specified proprietary compiler including
+    its version number). Corresponding Source must be machine-readable.
+
+    "Covered Work" means My Work or a Derived Work.
+
+    "Derived Work" means a work of authorship that copies from, modifies,
+    adapts, is based on, is a derivative work of, transforms, translates or
+    contains all or part of My Work, such that copyright permission is
+    required. The following are not Derived Works: (i) Mere Aggregation;
+    (ii) a mere reproduction of My Work; and (iii) if My Work fails to
+    explicitly state an expectation otherwise, a work that merely makes
+    reference to My Work.
+
+    "Distribute" means to distribute, transfer or make a copy available to
+    someone else, such that copyright permission is required.
+
+    "Distributor" means Me and anyone else who Distributes a Covered Work.
+
+    "FSF-Free" means classified as 'free' by the Free Software Foundation.
+
+    "GPL" means a version of the GNU General Public License or the GNU
+    Affero General Public License.
+
+    "I"/"Me"/"My" refers to the individual or legal entity that places My
+    Work under this License. "You"/"Your" refers to the individual or legal
+    entity exercising rights in My Work under this License. A legal entity
+    includes each entity that controls, is controlled by, or is under
+    common control with such legal entity. "Control" means (a) the power to
+    direct the actions of such legal entity, whether by contract or
+    otherwise, or (b) ownership of more than fifty percent of the
+    outstanding shares or beneficial ownership of such legal entity.
+
+    "Licensed Patents" means all patent claims licensable royalty-free by
+    Me, now or in the future, that are necessarily infringed by making,
+    using, or selling My Work, and excludes claims that would be infringed
+    only as a consequence of further modification of My Work.
+
+    "Mere Aggregation" means an aggregation of a Covered Work with a
+    Separate Work.
+
+    "My Work" means the particular work of authorship I license to You
+    under this License.
+
+    "Object Code" means any form of a work that is not Source Code.
+
+    "OSI-Approved" means approved as 'Open Source' by the Open Source
+    Initiative.
+
+    "Separate Work" means a work that is separate from and independent of a
+    particular Covered Work and is not by its nature an extension or
+    enhancement of the Covered Work, and/or a runtime library, standard
+    library or similar component that is used to generate an Object Code
+    form of a Covered Work.
+
+    "Source Code" means the preferred form of a work for making
+    modifications to it.
