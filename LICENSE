@@ -1,1 +1,10 @@
-The style package is copyrighted but may be used and extended in any way, as long as a pointer to the original author is maintained. The author is not liable for any problem that may or may not result from using this package. Use at your own risk.
+ My "symlinks" utility pre-dates the "open source licensing"
+fad by a number of years. Just to clarify, this is 100%
+freeware, written entirely by myself. The intent is to use
+it to detect missing/obsolete symlink targets on an installed
+distro, before creating the "gold" (or "final") release discs.
+
+Use and distribute and modify as you (or anyone
+else) sees fit. There have no formal restrictions or
+requirements whatsoever regarding distribution of either
+binaries or source code, whether modified or original.
