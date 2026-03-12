@@ -1,15 +1,14 @@
-Copyright (C) 1999, 2000 by Anton Zinoviev <anton@lml.bas.bg>
+Copyright (c) 1990 by Sun Microsystems, Inc. 
+Author: Patrick J. Naughton naughton@wind.sun.com 
 
-This software may be used, modified, copied, distributed, and sold,
-in both source and binary form provided that the above copyright
-and these terms are retained. Under no circumstances is the author
-responsible for the proper functioning of this software, nor does
-the author assume any responsibility for damages incurred with its
-use.
+Permission to use, copy, modify, and distribute this software and its 
+documentation for any purpose and without fee is hereby granted, 
+provided that the above copyright notice appear in all copies and 
+that both that copyright notice and this permission notice appear in 
+supporting documentation. 
 
-Permission is granted to anyone to use, distribute and modify
-this file in any way, provided that the above copyright notice
-is left intact and the author of the modification summarizes
-the changes in this header.
-
-This file is distributed without any expressed or implied warranty.
+This file is provided AS IS with no warranties of any kind. The author 
+shall have no liability with respect to the infringement of copyrights, 
+trade secrets or any patents by this file or any part thereof. In no event 
+will the author be liable for any lost revenue or profits or other special, 
+indirect and consequential damages.
