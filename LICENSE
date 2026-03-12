@@ -1,9 +1,9 @@
-(c) Copyright 1998-2007 by Mark Mielke
+Copyright (c) 1986 by University of Toronto. Written by Henry Spencer. Not derived from licensed software.
 
-Freedom to use these sources for whatever you want, as long as credit
-is given where credit is due, is hereby granted. You may make modifications
-where you see fit but leave this copyright somewhere visible. As well, try
-to initial any changes you make so that if I like the changes I can
-incorporate them into later versions.
+Permission is granted to anyone to use this software for any purpose on any computer system, and to redistribute it freely, subject to the following restrictions:
 
-     - Mark Mielke <mark@mielke.cc>
+1. The author is not responsible for the consequences of use of this software, no matter how awful, even if they arise from defects in it.
+
+2. The origin of this software must not be misrepresented, either by explicit claim or by omission.
+
+3. Altered versions must be plainly marked as such, and must not be misrepresented as being the original software.
